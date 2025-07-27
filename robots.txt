@@ -1,1 +1,1 @@
-Sitemap: https://Ujas-IITGN.github.io/PSDV-Assignement4-Dash-Plotly/sitemap.xml
+Sitemap: https://Ujas-PersistentCoder.github.io/PSDV-Assignement4-Dash-Plotly/sitemap.xml
